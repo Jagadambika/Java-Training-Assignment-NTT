@@ -23,9 +23,3 @@ public class mainStudentDetails {
 	
 
 }
- class san {
-	public void hara()
-	{
-		
-	}
-}
