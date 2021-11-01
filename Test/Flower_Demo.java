@@ -58,7 +58,7 @@ public class Flower_Demo {
 			char loop;
 			Scanner input = new Scanner(System.in);
 			do {
-		    System.out.println("Choose a continentName To be Displayed: \n 1.) ASIA  \n 2.) EUROPE \n 3.) AFRICA \n 4.) Exit\n");
+		    System.out.println("Choose a continentName To be Displayed: \n 1. ASIA  \n 2. EUROPE \n 3. AFRICA \n 4. Exit\n");
 		    System.out.println("Enter a particular number associated with the continent to view its respective countries and flowers   \n");
 		    
 		    choose = input.next().charAt(0);
